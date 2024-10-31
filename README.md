@@ -31,29 +31,29 @@ Converted categorical data to numerical values:
 The project includes five key visualizations:
 
 1. **Survival Rates by Sex**
-    ![alt text](image.png)
+    ![alt text](Diagrams/image.png)
    - Shows significantly higher survival rates for females (75%) compared to males (21%)
    - Demonstrates priority given to women during evacuation
 
 2. **Survival Rates by Category (Who)**
-    ![alt text](image-1.png)
+    ![alt text](Diagrams/image-1.png)
    - Women: 78% survival rate
    - Children: 59% survival rate
    - Male adults: 17% survival rate
    - Confirms "women and children first" policy
 
 3. **Survival Rates by Siblings/Spouses (sibsp)**
-    ![alt text](image-2.png)
+    ![alt text](Diagrams/image-2.png)
    - Highest survival rate for passengers with 1 sibling/spouse
    - Lower survival rates for larger family groups
 
 4. **Survival Rates by Parents/Children (parch)**
-    ![alt text](image-3.png)
+    ![alt text](Diagrams/image-3.png)
    - Optimal survival rate for passengers with 3 parents/children
    - Decreased survival rates for larger family groups
 
 5. **Survival Rates by Male Age Groups**
-    ![alt text](image-4.png)
+    ![alt text](Diagrams/image-4.png)
    - Higher survival rates for younger males
    - Declining survival rates with increasing age
    - Lowest survival rates for males aged 60+
